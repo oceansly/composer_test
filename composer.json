@@ -1,0 +1,18 @@
+{
+    "name": "oceansly/composer_test",
+    "description": "a composer test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Oceansly\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oceansly",
+            "email": "ocean_sly@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
